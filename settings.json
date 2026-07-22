@@ -1,14 +1,14 @@
 {
-  "name": "Zeraya Bot",
+  "name": "Bot",
   "bot-account": {
-    "username": "ZerayaTheBot",
+    "username": "TheBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Zeraya.aternos.me",
-    "port": 56505,
-    "version": "1.21.11",
+    "ip": "Pro_Survival.aternos.me",
+    "port": 37463,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@
       "repeat": false,
       "repeat-delay": 1200,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to ZenTheCosmic!",
-        "I like to play Minecraft!"
+        "Я бот для не отключения сервера"
       ]
     },
     "chat-log": true,
@@ -75,7 +73,7 @@
   "discord": {
     "enabled": true,
     "webhookUrl":
-    "https://discord.com/api/webhooks/1494229228563071077/7bnKIIsBE_GTVZzSmETMQ_AvanAUBPSJTTtYM5-FRAzmC2qowid-RwaFfJVdPw013leN",
+    "",
     "events": {
       "connect": true,
       "disconnect": true,
